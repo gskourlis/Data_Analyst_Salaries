@@ -1,4 +1,4 @@
-# 💼 Insights into Data Science Salaries: 2020-2024
+## 💼 Insights into Data Science Salaries: 2020-2024
 
  After analyzing recent salary trends in data-related fields using a dataset from Kaggle (https://lnkd.in/dX8qtXuk), here are some key takeaways on how compensation has evolved over the last four years:
 
