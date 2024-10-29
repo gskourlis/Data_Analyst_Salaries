@@ -10,4 +10,4 @@
 
 📊 Data Analysts Thriving: The average salary for Data Analysts has nearly doubled since 2020, reflecting growing demand for data-driven insights at every level of business.
 
- If you’re interested in seeing the full breakdown, feel free to check out my dashboard on Tableau Public (https://lnkd.in/dgH4Rh2B).
+ In this repository you will find the code I created to clean and manipulate the data,. If you’re interested in seeing the full breakdown, feel free to check out my dashboard on Tableau Public (https://lnkd.in/dgH4Rh2B).
